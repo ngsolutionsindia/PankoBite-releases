@@ -1,6 +1,6 @@
 # NGAnime-releases
 
-Public APK downloads for [NG Anime](https://nganime-site.web.app/).
+Public APK downloads for [NG Anime](https://nganimeoffical.web.app/).
 
 This repository contains **no source code** — only [GitHub Releases](https://github.com/ngsolutionsindia/NGAnime-releases/releases) with sideload builds.
 
